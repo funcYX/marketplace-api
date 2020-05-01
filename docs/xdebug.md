@@ -2,7 +2,7 @@
 
 Заходим в `Preferences -> Languages & Frameworks -> PHP` и жмем на три точки рядом с `CLI Interpreter`
 
-![xDebug config](https://github.com/funcYX/marketplace-api/raw/feature/#1-docker-integration/docs/pics/xdebug/1.png)
+![xDebug config](https://raw.githubusercontent.com/funcYX/marketplace-api/feature/%231-docker-integration/docs/pics/xdebug/1.png)
 
 Добавляем новый интерпретатор из докера
 
